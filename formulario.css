@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+header{
+   
+    font-size: 35px;
+        
+        text-align: center;
+    
+        background-color: gray;
+        margin: 0;
+        padding-top: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;     
+        
+ }
+ #vitor, #bitor{
+    display: inline-block;
+    margin: 1px;
+}
+main{
+    height: 700px;
+    background-color: rgb(182, 180, 180);
+}
+footer {
+    text-align: center;
+
+
+    background-color: gray;
+    padding: 10px;
+ }  
+ form{
+    color: black
+ }
+ #nome{
+    color: white
+ }
+ #portfolio{
+    color:white
+ }
+ #footer{
+    color:white
+ }
+ #a{
+    color:white
+ }
+ #b{
+    color:white
+ }
+ #form{
+   font-size: 20px;
+ }
+ #mande{
+   font-size: 20px;
+ }
